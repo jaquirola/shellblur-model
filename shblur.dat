@@ -1,0 +1,6 @@
+shbluri       5    0.    1.e20       C_shblur   con  0
+OpenAngL    deg      90.   0.    0.    89.9      90.        0.1
+OpenAngU    deg      30.   0.    0.    89.      89.9       0.1
+LOSAng      deg      55.   0.    0.    90.       90.        0.1
+vmax      "km/s"  5000.   1150. 1150. 10000.     10000.      -1.0
+NHejecta  "1e22"   1.0    0.001 0.001 900.      1000.       0.1
